@@ -20,7 +20,7 @@ Com a implementação desse produto, espera-se **auxiliar o trabalho do ACS** na
    1. Entre no seu VSCode e clone este repositório.
    2. Abra a pasta "Functions", prossiga para a pasta "DB" e abra o arquivo "Database.go"
    3. Na função "OpenConnection()" apenas altere a senha (coloque a mesma senha usada no pgAdmin)
-   4. Abra o terminal e execute o comando `go run .`
+   4. Abra o terminal e execute o comando `go run .\main.go`
    5. Se tudo der certo será exibida uma mensagem: Server rodando na porta 8080
    6. Está no ar! http://localhost:8080
 
