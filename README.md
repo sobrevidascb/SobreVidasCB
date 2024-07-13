@@ -2,7 +2,7 @@
 
 Este repositório contém a base para criação de um sistema web baseado em JavaScript, HTML, CSS e GO, com acesso à banco de dados PostgreSQL.
 
-**link para o pitch:**
+**link para o pitch:https://drive.google.com/file/d/1uEEF0VcxihOtw-IRBb_zalInT-RUrgPH/view?usp=drivesdk**
 
 **link para o vídeo de explicação dos detalhes do software:**
 
