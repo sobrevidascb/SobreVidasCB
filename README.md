@@ -4,7 +4,7 @@ Este repositório contém a base para criação de um sistema web baseado em Jav
 
 **link para o pitch:https://drive.google.com/file/d/1uEEF0VcxihOtw-IRBb_zalInT-RUrgPH/view?usp=drivesdk**
 
-**link para o vídeo de explicação dos detalhes do software:**
+**link para o vídeo de explicação dos detalhes da implementação:**
 
 Com a implementação desse produto, espera-se **auxiliar o trabalho do ACS** na **identificação** do grupo de risco para o câncer de boca, de modo que se consiga **aumentar o número de detecções precoces** da doença e evitar, dessa forma, os malefícios do diagnóstico tardio, como as repercussões negativas do pós-operatório e o aumento dos custos no tratamento. Essa solução almeja permitir o **combate eficaz** ao câncer de boca e ser **financeiramente eficiente**, já que poupa recursos que seriam utilizados no tratamento em estágios avançados da doença. Por fim, a sua implementação contribui para uma transição demográfica saudável e de boa qualidade de vida, especialmente para o público masculino maior de quarenta anos.
 
