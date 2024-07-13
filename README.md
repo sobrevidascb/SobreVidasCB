@@ -11,19 +11,18 @@ Com a implementação desse produto, espera-se **auxiliar o trabalho do ACS** na
 
 [![My Skills](https://skillicons.dev/icons?i=golang,js,html,css,postgres)](https://skillicons.dev)
 
-
-## Como rodar
-   1. Entre no seu VSCode e clone este repositório.
-   2. Abra o terminal e execute o comando `go run .`
-   3. Se tudo der certo será exibida uma mensagem: Server rodando na porta 8080
-   4. Está no ar! http://localhost:8080
-
 ## Acesso ao banco de dados
    1. Iniciar o pgAdmin
-   2. Clicar em Object > Register > Server...
-   3. Clicar em General > Escreva o nome do seu servidor de banco de dados
-   4. Clicar em Connection > Host name/address: escreva localhost | Username: postgres | Senha: postgres
-   5. Criar um banco de dados com o nome do seu projeto
+   2. Clicar em > Server... e digitar sua senha
+   3. Clicar em Database > Registe um novo banco de dados no nome "SobreVidasCB"
+  
+## Como rodar
+   1. Entre no seu VSCode e clone este repositório.
+   2. Abra a pasta "Functions", prossiga para a pasta "DB" e abra o arquivo "Database.go"
+   3. Na função "OpenConnection()" apenas altere a senha (coloque a mesma senha usada no pgAdmin)
+   4. Abra o terminal e execute o comando `go run .`
+   5. Se tudo der certo será exibida uma mensagem: Server rodando na porta 8080
+   6. Está no ar! http://localhost:8080
 
 ## Legenda das pastas 
    1. Models: CRUD do servidor
